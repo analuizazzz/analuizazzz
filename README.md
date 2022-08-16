@@ -1,5 +1,5 @@
 ### Olá eu sou a Ana Luiza Santos Gomes 👋
-<p> 📓 - Estou estudando:  Sistemas De Informação (Bacharelado) </p>
+<p> 📓 - Estou estudando:  Engenharia de Software (Bacharelado) </p>
 <p>🌱 - Estou aprendendo: JavaScript </p>
 <p>💬 - Estou á procura de um estágio </p>
 
