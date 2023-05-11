@@ -1,7 +1,6 @@
 ### Olá eu sou a Ana Luiza Santos Gomes 👋
 <p> 📓 - Estou estudando:  Engenharia de Software (Bacharelado) </p>
-<p>🌱 - Estou aprendendo: JavaScript </p>
-<p>💬 - Estou á procura de um estágio </p>
+<p>🌱 - Estou aprendendo: React </p>
 
 <div>
 <p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=analuizazzz&show_icons=true&theme=radical"></p>
